@@ -1,3 +1,3 @@
 # arq-distribuida-rpc
 
-Funcionalidade Venda
+Tabela venda e itemvenda
